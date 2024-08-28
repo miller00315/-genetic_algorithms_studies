@@ -8,6 +8,9 @@ deap = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+knapsack = "*"
+tsp = "*"
+python-tsp = "*"
 
 [dev-packages]
 ipykernel = "*"
